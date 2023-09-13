@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\bin\Debug\net7.0\miniGame.exe
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\bin\Debug\net7.0\miniGame.deps.json
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\bin\Debug\net7.0\miniGame.runtimeconfig.json
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\bin\Debug\net7.0\miniGame.dll
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\bin\Debug\net7.0\miniGame.pdb
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.AssemblyInfo.cs
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.dll
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\refint\miniGame.dll
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.pdb
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\miniGame.genruntimeconfig.cache
+C:\Users\Flavio\Documents\GitHub\miniGame\miniGame\miniGame\obj\Debug\net7.0\ref\miniGame.dll
